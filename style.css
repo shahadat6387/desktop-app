@@ -42,5 +42,25 @@ ul li a:hover{
   border-radius: 40px;
 }
 
+ul li.active a{
+  background-color: #fff;
+  color: black;
+}
+
+.logo img{
+  float: left;
+  width: 100px;
+  height: auto;
+  border-radius: 60px;
+}
+
+.main{
+    max-width: 1200px;
+    margin: auto;
+    padding: 10px;
+
+
+}
+
 
 
